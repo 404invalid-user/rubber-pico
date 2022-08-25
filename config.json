@@ -1,0 +1,11 @@
+{
+    "wifi": {
+        "SSID": "GENERIC-NAME321",
+        "password": "Hunter1",
+        "attempts": 3,
+        "delay_in_msec": 200     
+    },
+    "server": "ws://192.168.69.160/",
+    "socket_delay_ms": 5,
+    "mode": "host"
+}
